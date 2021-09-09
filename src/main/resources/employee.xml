@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding='UTF-8' standalone='yes'?>
+    <employees>
+        <employee>
+            <depCode>John</depCode>
+            <depJob>rc1</depJob>
+            <description>Writer</description>
+        </employee>
+    <employee>
+        <depCode>Jean</depCode>
+        <depJob>rc2</depJob>
+        <description>Programmer</description>
+    </employee>
+    <employee>
+        <depCode>Artem</depCode>
+        <depJob>rc3</depJob>
+        <description>Designer</description>
+    </employee>
+</employees>
